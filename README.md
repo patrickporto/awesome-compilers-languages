@@ -2,7 +2,14 @@
 
 A curated list of awesome programming language design, domain specific languages and homebrew compilers.
 
-### Tutorials
+## Contents
+
+- [Tutorials](#tutorials)
+- [Videos](#videos)
+- [Tools](#tools)
+- [Homebrew](#homebrew)
+
+## Tutorials
 
 - Writing a C Compiler
   - [Writing a C Compiler - Part 1: Integers](https://norasandler.com/2017/11/29/Write-a-Compiler.html)
@@ -16,26 +23,26 @@ A curated list of awesome programming language design, domain specific languages
 - [PEG parser in Perl](https://docs.perl6.org/language/grammar_tutorial)
 - [Build Your Own Lisp](http://www.buildyourownlisp.com)
 - [Writing your own programming language and compiler with Python](https://blog.usejournal.com/writing-your-own-programming-language-and-compiler-with-python-a468970ae6df)
-- Let’s Build A Simple Interpreter
-  - [Let’s Build A Simple Interpreter - Part 1](https://ruslanspivak.com/lsbasi-part1/)
-  - [Let’s Build A Simple Interpreter - Part 2](https://ruslanspivak.com/lsbasi-part2/)
-  - [Let’s Build A Simple Interpreter - Part 3](https://ruslanspivak.com/lsbasi-part3/)
-  - [Let’s Build A Simple Interpreter - Part 4](https://ruslanspivak.com/lsbasi-part4/)
-  - [Let’s Build A Simple Interpreter - Part 5](https://ruslanspivak.com/lsbasi-part5/)
-  - [Let’s Build A Simple Interpreter - Part 6](https://ruslanspivak.com/lsbasi-part6/)
-  - [Let’s Build A Simple Interpreter - Part 7: Abstract Syntax Trees](https://ruslanspivak.com/lsbasi-part7/)
-  - [Let’s Build A Simple Interpreter - Part 8](https://ruslanspivak.com/lsbasi-part8/)
-  - [Let’s Build A Simple Interpreter - Part 9](https://ruslanspivak.com/lsbasi-part9/)
-  - [Let’s Build A Simple Interpreter - Part 10](https://ruslanspivak.com/lsbasi-part10/)
-  - [Let’s Build A Simple Interpreter - Part 11](https://ruslanspivak.com/lsbasi-part11/)
-  - [Let’s Build A Simple Interpreter - Part 12](https://ruslanspivak.com/lsbasi-part12/)
-  - [Let’s Build A Simple Interpreter - Part 13: Semantic Analysis](https://ruslanspivak.com/lsbasi-part13/)
-  - [Let’s Build A Simple Interpreter - Part 14: Nested Scopes and a Source-to-Source Compiler](https://ruslanspivak.com/lsbasi-part14/)
-  - [Let’s Build A Simple Interpreter - Part 15](https://ruslanspivak.com/lsbasi-part15/)
-  - [Let’s Build A Simple Interpreter - Part 16: Recognizing Procedure Calls](https://ruslanspivak.com/lsbasi-part16/)
-  - [Let’s Build A Simple Interpreter - Part 17: Call Stack and Activation Records](https://ruslanspivak.com/lsbasi-part17/)
-  - [Let’s Build A Simple Interpreter - Part 18: Executing Procedure Calls](https://ruslanspivak.com/lsbasi-part18/)
-  - [Let’s Build A Simple Interpreter - Part 19: Nested Procedure Calls](https://ruslanspivak.com/lsbasi-part19/)
+- Let's Build A Simple Interpreter
+  - [Let's Build A Simple Interpreter - Part 1](https://ruslanspivak.com/lsbasi-part1/)
+  - [Let's Build A Simple Interpreter - Part 2](https://ruslanspivak.com/lsbasi-part2/)
+  - [Let's Build A Simple Interpreter - Part 3](https://ruslanspivak.com/lsbasi-part3/)
+  - [Let's Build A Simple Interpreter - Part 4](https://ruslanspivak.com/lsbasi-part4/)
+  - [Let's Build A Simple Interpreter - Part 5](https://ruslanspivak.com/lsbasi-part5/)
+  - [Let's Build A Simple Interpreter - Part 6](https://ruslanspivak.com/lsbasi-part6/)
+  - [Let's Build A Simple Interpreter - Part 7: Abstract Syntax Trees](https://ruslanspivak.com/lsbasi-part7/)
+  - [Let's Build A Simple Interpreter - Part 8](https://ruslanspivak.com/lsbasi-part8/)
+  - [Let's Build A Simple Interpreter - Part 9](https://ruslanspivak.com/lsbasi-part9/)
+  - [Let's Build A Simple Interpreter - Part 10](https://ruslanspivak.com/lsbasi-part10/)
+  - [Let's Build A Simple Interpreter - Part 11](https://ruslanspivak.com/lsbasi-part11/)
+  - [Let's Build A Simple Interpreter - Part 12](https://ruslanspivak.com/lsbasi-part12/)
+  - [Let's Build A Simple Interpreter - Part 13: Semantic Analysis](https://ruslanspivak.com/lsbasi-part13/)
+  - [Let's Build A Simple Interpreter - Part 14: Nested Scopes and a Source-to-Source Compiler](https://ruslanspivak.com/lsbasi-part14/)
+  - [Let's Build A Simple Interpreter - Part 15](https://ruslanspivak.com/lsbasi-part15/)
+  - [Let's Build A Simple Interpreter - Part 16: Recognizing Procedure Calls](https://ruslanspivak.com/lsbasi-part16/)
+  - [Let's Build A Simple Interpreter - Part 17: Call Stack and Activation Records](https://ruslanspivak.com/lsbasi-part17/)
+  - [Let's Build A Simple Interpreter - Part 18: Executing Procedure Calls](https://ruslanspivak.com/lsbasi-part18/)
+  - [Let's Build A Simple Interpreter - Part 19: Nested Procedure Calls](https://ruslanspivak.com/lsbasi-part19/)
 - [Dragon taming with Tailbiter, a bytecode compiler for Python](https://codewords.recurse.com/issues/seven/dragon-taming-with-tailbiter-a-bytecode-compiler)
 - [BASIC Interpreter Implemented in a Jupyter Notebook](https://github.com/norvig/pytudes/blob/master/ipynb/BASIC.ipynb)
 - [Let's Write a Brainfuck Compiler](https://www.hackdoor.io/articles/BKQMZJzP/let-s-write-a-brainfuck-compiler)
@@ -55,11 +62,11 @@ A curated list of awesome programming language design, domain specific languages
   - [PEG Parsing Series - Part 9: PEG at the Core Developer Sprint](https://medium.com/@gvanrossum_83706/peg-at-the-core-developer-sprint-8b23677b91e6)
 - [Pyleri - Parsing with Ease](https://tomassetti.me/pyleri-tutorial/)
 
-### Videos
+## Videos
 
 - [Writing a PEG parser for fun and profit - Guido van Rossum](https://www.youtube.com/watch?v=QppWTvh7_sI)
 
-### Tools
+## Tools
 
 - [PyParsing -- A Python Parsing Module](https://github.com/pyparsing/pyparsing)
 - [Unicode-friendly lexer generator for OCaml](https://github.com/ocaml-community/sedlex)
@@ -67,6 +74,6 @@ A curated list of awesome programming language design, domain specific languages
 - [LPeg - Parsing Expression Grammars in Lua with first-class patterns](http://www.inf.puc-rio.br/~roberto/lpeg/)
 - [Python Left-Right Parser (Pyleri) - An easy-to-use parser created for SiriDB](https://github.com/transceptor-technology/pyleri)
 
-### Homebrew
+## Homebrew
 
 - [A C parser and interpreter written in Python](https://github.com/albertz/PyCParser)
