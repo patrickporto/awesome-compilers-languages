@@ -68,7 +68,7 @@ A curated list of awesome programming language design, domain specific languages
 
 ## Tools
 
-- [PyParsing -- A Python Parsing Module](https://github.com/pyparsing/pyparsing)
+- [PyParsing - A Python Parsing Module](https://github.com/pyparsing/pyparsing)
 - [Unicode-friendly lexer generator for OCaml](https://github.com/ocaml-community/sedlex)
 - [Menhir - A LR(1) parser generator for OCaml](http://gallium.inria.fr/~fpottier/menhir/)
 - [LPeg - Parsing Expression Grammars in Lua with first-class patterns](http://www.inf.puc-rio.br/~roberto/lpeg/)
