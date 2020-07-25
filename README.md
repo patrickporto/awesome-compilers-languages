@@ -1,4 +1,4 @@
-# Awesome Compilers and Languages [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Formal Languages and Compilers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated list of awesome programming language design, domain specific languages and homebrew compilers.
 
