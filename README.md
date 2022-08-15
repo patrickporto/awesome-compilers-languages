@@ -74,6 +74,7 @@ A curated list of awesome programming language design, domain specific languages
 - [Menhir - A LR(1) parser generator for OCaml](http://gallium.inria.fr/~fpottier/menhir/)
 - [LPeg - Parsing Expression Grammars in Lua with first-class patterns](http://www.inf.puc-rio.br/~roberto/lpeg/)
 - [Python Left-Right Parser (Pyleri) - An easy-to-use parser created for SiriDB](https://github.com/transceptor-technology/pyleri)
+- [TatSu - TatSu is a tool that takes grammars in a variation of EBNF as input, and outputs memoizing (Packrat) PEG parsers in Python](https://github.com/neogeny/TatSu)
 
 ## Homebrew
 
