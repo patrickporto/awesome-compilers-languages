@@ -79,3 +79,4 @@ A curated list of awesome programming language design, domain specific languages
 ## Homebrew
 
 - [A C parser and interpreter written in Python](https://github.com/albertz/PyCParser)
+- [SEMAPRAX - Experimental agent-native systems language with stable semantic identity and bounded native and WebAssembly compiler lanes](https://wavect.io/semaprax/) ([source](https://github.com/wavect/semaprax))
