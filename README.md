@@ -79,3 +79,4 @@ A curated list of awesome programming language design, domain specific languages
 ## Homebrew
 
 - [A C parser and interpreter written in Python](https://github.com/albertz/PyCParser)
+- [Loment](https://github.com/FujoJTOP/loment) - a homebrew systems programming language and its compiler, written in Loment itself; compiles to bare-metal and hosted x86-64 through LLVM IR and links with its own linker.
